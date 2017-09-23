@@ -1,2 +1,0 @@
-# Skurk
-Klaven´sTower quest
